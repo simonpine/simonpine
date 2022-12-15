@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> , I'm Simon Pineda </b></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF6666&center=true&vCenter=true&width=435&lines=Learning+new+things;Front-end+developer;Willing+to+receive+feedback" alt="Typing SVG" /></a>
+  <a href=""><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=FF6666&center=true&vCenter=true&width=435&lines=Learning+new+things;Front-end+developer;Willing+to+receive+feedback" alt="Typing SVG" /></a>
 </p>
 
 
