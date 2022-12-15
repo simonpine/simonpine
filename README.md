@@ -36,7 +36,7 @@
     <h2 align="left">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="https:https://www.linkedin.com/in/simon-pineda-0b8abb251/" 	target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/simon-pineda-0b8abb251/" 	target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="simonpineda0521@gmail.com" target="blank"><img align="center"
