@@ -66,7 +66,7 @@
   <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
   <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
     <img src = "https://img.shields.io/badge/Sass-CA4094?style=for-the-badge&logo=sass&logoColor=ffffff" alt = "css" />
-  <img src = "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "css" />
+  <img src = "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "css" />
     <img src = "https://img.shields.io/badge/firebase-orange?style=for-the-badge&logo=firebase&logoColor=ffffff" alt = "css" />
 	  <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt = "photoshop" />
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
