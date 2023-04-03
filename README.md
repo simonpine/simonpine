@@ -20,7 +20,7 @@
 - Front-end developer
 - UX / UI designer
 - I'm a student and self learning
-- Currently learning TypeScript
+- Currently learning Python
 - Personal website [link](https://simonpine.com)
 - From Bogota, Colombia 🏙
 - I’m currently open for an Intern to get experience
@@ -72,11 +72,11 @@
   <img src = "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt = "illustrator" />
     <img src = "https://img.shields.io/badge/After%20effects-purple?style=for-the-badge&logo=adobe%20after%20effects&logoColor=ffffff" alt = "photoshop" />
 	  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
+	      <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
+  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
   </p>
 <h2 align="left">Technologies that I am learning</h2>
  <p align="center">
-     <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
-  <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
   <img src = "https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=ffffff" alt = "css" />
   </p>
  </samp>
