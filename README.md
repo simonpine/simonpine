@@ -76,7 +76,11 @@
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
 	   <img src = "https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=ffffff" alt = "css" />
 	<img src = "https://img.shields.io/badge/jupyter-orange?style=for-the-badge&logo=jupyter&logoColor=ffffff" alt = "css" />
-  </p>
+	 <img src = "https://img.shields.io/badge/Pandas-green?style=for-the-badge&logo=pandas&logoColor=ffffff" alt = "css" />
+	 	 <img src = "https://img.shields.io/badge/numpy-blue?style=for-the-badge&logo=numpy&logoColor=ffffff" alt = "css" />
+	 	 <img src = "https://img.shields.io/badge/sklearn-orange?style=for-the-badge&logo=scikit-learn&logoColor=ffffff" alt = "css" />
+
+ </p>
 <h2 align="left">Technologies that I am learning</h2>
  <p align="center">
   <img src = "https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=ffffff" alt = "css" />
