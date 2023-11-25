@@ -74,10 +74,11 @@
 	  <img src = "https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt = "bootstrap5" />
 	      <img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt = "figma" />
   <img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt = "ts" />
+	   <img src = "https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=ffffff" alt = "css" />
   </p>
 <h2 align="left">Technologies that I am learning</h2>
  <p align="center">
-  <img src = "https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=ffffff" alt = "css" />
+  <img src = "https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=ffffff" alt = "css" />
   </p>
  </samp>
 </div>
