@@ -20,7 +20,7 @@
 - Front-end developer
 - UX / UI designer
 - I'm a student and self learning
-- Currently learning Python
+- Currently learning C++
 - Personal website [link](https://simonpine.com)
 - From Bogota, Colombia 🏙
 - I’m currently open for an Intern to get experience
